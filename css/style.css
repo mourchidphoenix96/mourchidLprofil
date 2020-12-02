@@ -188,6 +188,12 @@ hr
   float: right;
 }
 
+.footer-link
+{
+  text-decoration:none;
+
+}
+
 /**********class contact section**************************/
 .contact-me
 {
