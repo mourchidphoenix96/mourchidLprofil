@@ -1,0 +1,72 @@
+
+/***************** tag dans le body section ********************/
+
+body
+{
+  background-color: #e4f9ff;
+}
+/***************** class section ********************/
+.div_1
+{
+  background-color: #28df99;
+  width: 100px;
+  height: 200px;
+  position: static;
+  display: inline-block;
+
+
+
+}
+
+.div_2
+{
+  background-color: #fff76a;
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  right: 3px;
+  bottom: 100px;
+
+}
+.div_3
+{
+  background-color: #ec0101;
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  right: 207px;
+
+}
+
+.Bleu
+{
+  background-color: #111d5e;
+  width: 100px;
+  height: 200px;
+  display: inline-block;
+
+}
+.Blanc
+{
+  background-color: #f7f5dd;
+  width: 100px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  right: 3px;
+
+
+
+}
+.Rouge
+{
+  background-color: #ec0101;
+  width: 100px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  right: 8px;
+
+}
